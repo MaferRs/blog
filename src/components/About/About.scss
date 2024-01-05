@@ -1,0 +1,26 @@
+@import '../../index.scss';
+
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+  width: 55rem;
+  border: 0.25rem solid #6d6d6d49;
+  border-radius: 2rem;
+  margin: 3rem;
+  padding: 3rem;
+
+  h2 {
+    font-size: 3rem;
+  }
+  p {
+    padding: 0 2rem;
+    line-height: 2.5rem;
+    font-size: 1.2rem;
+  }
+  strong {
+    text-transform: uppercase;
+    color: $color-1;
+  }
+}

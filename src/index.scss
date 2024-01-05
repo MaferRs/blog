@@ -1,0 +1,16 @@
+$background: #121214;
+$fonte-principal: 'Helvetica', sans-serif;
+$font-color: #a4a4a4;
+$color-1: #7d0754;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: $background;
+  color: $font-color;
+}
+
+a {
+  text-decoration: none;
+}

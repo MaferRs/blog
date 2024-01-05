@@ -1,0 +1,18 @@
+@import '../../index.scss';
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  h1 {
+    padding: 2.5rem;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    border-bottom: 0.25rem solid $color-1;
+  }
+  h1:hover {
+    transform: scale(1.1);
+    transition: ease 1000ms;
+  }
+}
