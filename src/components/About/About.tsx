@@ -7,8 +7,11 @@ function About() {
       <section className="about">
         <h2>Sobre mim.</h2>
         <p>
-          Olá me chamo Maria Fernanda e fiz este blog para te passar dicas sobre
-          <strong> Desenvolvimento Front End </strong>, vamos embarcar nessa!!.
+          Olá! Sou Maria Fernanda e criei este blog com o objetivo de
+          compartilhar dicas valiosas sobre{' '}
+          <strong>Desenvolvimento Front End </strong>. Convido você a embarcar
+          nesta empolgante jornada de aprendizado conosco. Seja bem-vindo(a) ao
+          nosso espaço de troca de conhecimentos! 😊
         </p>
       </section>
     </>
