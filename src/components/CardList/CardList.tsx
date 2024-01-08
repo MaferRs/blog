@@ -28,17 +28,13 @@ const Card: React.FC<CardProps> = ({ title, description, image }) => (
 const CardList: React.FC = () => {
   const [search, setSearch] = useState('');
 
-  const handleSearch = (event: React.FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-  };
-
   const filteredData = data.filter(item =>
     item.title.toLowerCase().includes(search.toLowerCase())
   );
 
   return (
     <>
-      <form className="search" onSubmit={handleSearch}>
+      <form className="search">
         <input
           type="text"
           placeholder="Pesquisar"
