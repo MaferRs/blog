@@ -1,7 +1,7 @@
 [
   {
     "title": "Html",
-    "image": "../src/assets/image/html.png",
+    "image": "../../src/assets/image/html.png",
     "description": "Vamos mergulhar em tópicos como estrutura básica de um documento HTML, uso eficaz de tags e atributos, e melhores práticas para garantir que seu código seja limpo, eficiente e acessível. Além disso, compartilhamos dicas úteis e truques que você pode implementar imediatamente para levar seu código HTML ao próximo nível."
   },
   {
