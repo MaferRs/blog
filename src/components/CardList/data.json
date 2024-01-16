@@ -1,32 +1,32 @@
 [
   {
     "title": "Html",
-    "image": "../../src/assets/image/html.png",
+    "image": "/image/html.png",
     "description": "Vamos mergulhar em tópicos como estrutura básica de um documento HTML, uso eficaz de tags e atributos, e melhores práticas para garantir que seu código seja limpo, eficiente e acessível. Além disso, compartilhamos dicas úteis e truques que você pode implementar imediatamente para levar seu código HTML ao próximo nível."
   },
   {
     "title": "Css",
-    "image": "../src/assets/image/css.png",
+    "image": "/image/css.png",
     "description": "Neste post, vamos explorar o CSS, a linguagem que dá estilo e vida aos sites. Se você é um iniciante aprendendo os fundamentos ou um desenvolvedor experiente procurando aprimorar suas habilidades, este artigo é para você. Vamos abordar tópicos como seletores, regras, animações e muito mais."
   },
   {
     "title": "Javascript",
-    "image": "../src/assets/image/javascript.png",
+    "image": "/image/javascript.png",
     "description": "Neste post, vamos mergulhar no JavaScript, a linguagem de programação que dá funcionalidade aos sites. Vamos abordar tópicos como sintaxe, funções, objetos e muito mais. Além disso, compartilhamos dicas úteis e truques que você pode implementar imediatamente para melhorar seu código JavaScript."
   },
   {
     "title": "React.Js",
-    "image": "../src/assets/image/react.js.png",
+    "image": "/image/react.js.png",
     "description": " Neste post, vamos explorar o React.js, uma biblioteca JavaScript para construir interfaces de usuário. Vamos abordar tópicos como componentes, estado, props e muito mais. Além disso, compartilhamos dicas úteis e truques que você pode implementar imediatamente para melhorar suas aplicações React."
   },
   {
     "title": "Figma",
-    "image": "../src/assets/image/figma.png",
+    "image": "/image/figma.png",
     "description": "Neste post, vamos explorar o Figma, uma ferramenta de design de interface do usuário baseada em nuvem. Vamos abordar tópicos como criação de protótipos, colaboração em tempo real, componentes e muito mais. Além disso, compartilhamos dicas úteis e truques que você pode implementar imediatamente para melhorar seus designs no Figma."
   },
   {
     "title": "Typescript",
-    "image": "../src/assets/image/typescript.png",
+    "image": "/image/typescript.png",
     "description": "Neste post, vamos explorar o TypeScript, um superconjunto tipado do JavaScript que adiciona tipos estáticos à linguagem. Vamos abordar tópicos como tipos, interfaces, classes e muito mais. "
   }
 ]
